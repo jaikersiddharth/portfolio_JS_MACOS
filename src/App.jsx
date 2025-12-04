@@ -3,6 +3,8 @@ import { TerminalWithWrapper,ResumeWithWrapper,FinderWithWrapper, TextWithWrappe
 import { Draggable } from "gsap/Draggable";
 import gsap from "gsap";
 import { SafariWithWrapper } from "#windows";
+import { Home } from "#components";
+
 
 gsap.registerPlugin(Draggable);
 const App = () => {
@@ -18,6 +20,7 @@ const App = () => {
             <TextWithWrapper />
             <ImageWithWrapper />
             <ContactWithWrapper />
+            <Home/>
         </main> 
     );
 }

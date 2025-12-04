@@ -132,28 +132,28 @@ const socials = [
     text: "Github",
     icon: "/icons/github.svg",
     bg: "#f4656b",
-    link: "https://github.com/JavaScript-Mastery-Pro",
+    link: "https://github.com/jaikersiddharth",
   },
   {
     id: 2,
-    text: "Platform",
+    text: "MailMe",
     icon: "/icons/atom.svg",
     bg: "#4bcb63",
-    link: "https://jsmastery.com/",
+    link: "mailto:jaikersiddharth@gmail.com",
   },
   {
     id: 3,
     text: "Twitter/X",
     icon: "/icons/twitter.svg",
     bg: "#ff866b",
-    link: "https://x.com/jsmasterypro",
+    link: "https://twitter.com/JaikerSiddharth",
   },
   {
     id: 4,
     text: "LinkedIn",
     icon: "/icons/linkedin.svg",
     bg: "#05b6f6",
-    link: "https://www.linkedin.com/company/javascriptmastery/posts/?feedView=all",
+    link: "https://www.linkedin.com/in/jaiker-siddharth-06037126b/",
   },
 ];
 
@@ -397,7 +397,7 @@ const ABOUT_LOCATION = {
       kind: "file",
       fileType: "img",
       position: "top-10 left-5",
-      imageUrl: "/images/adrian.jpg",
+      imageUrl: "/images/jsiddharth.jpg",
     },
     {
       id: 2,
@@ -406,16 +406,17 @@ const ABOUT_LOCATION = {
       kind: "file",
       fileType: "img",
       position: "top-28 right-72",
-      imageUrl: "/images/adrian-2.jpg",
+      imageUrl: "/images/jsiddharth.jpg",
     },
     {
       id: 3,
-      name: "conference-me.png",
+      name: "Hackathon_win.png",
       icon: "/images/image.png",
       kind: "file",
       fileType: "img",
       position: "top-52 left-80",
-      imageUrl: "/images/adrian-3.jpeg",
+      imageUrl: "/images/hackathon_win.jpg",
+      
     },
     {
       id: 4,
@@ -425,7 +426,7 @@ const ABOUT_LOCATION = {
       fileType: "txt",
       position: "top-60 left-5",
       subtitle: "Meet the Developer Behind the Code",
-      image: "/images/adrian.jpg",
+      image: "/images/jsiddharth.jpg",
       description: [
         "Hello! I'm Jaiker Siddharth, a passionate full-stack developer with a knack for creating dynamic and responsive web applications.",
         "With a strong foundation in both frontend and backend technologies, I specialize in building seamless user experiences and robust server-side solutions.",
